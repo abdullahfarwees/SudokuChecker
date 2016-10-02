@@ -1,6 +1,6 @@
 import java.util.*;
 
-class SudokuSolver
+class SudokuChecker
 {
 
 static int[][] matrix = new int[9][9];
